@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Monacoin Directory for Service Developers
 
-You can use the [editor on GitHub](https://github.com/monaco-ex/www.monaco-ex.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Opensources
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Monacoin core
 
-### Markdown
+core and qt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Web: https://monacoin.org/
+* GitHub: https://github.com/monacoinproject/monacoin.git
 
-```markdown
-Syntax highlighted code block
+## Insight
 
-# Header 1
-## Header 2
-### Header 3
+Blockchain expolorer.
 
-- Bulleted
-- List
+* Web: https://mona.insight.monaco-ex.org/
+* GitHub: https://github.com/monaco-ex/insight.git
 
-1. Numbered
-2. List
+## Electrum
 
-**Bold** and _Italic_ and `Code` text
+Thin client
 
-[Link](url) and ![Image](src)
-```
+* GitHub: https://github.com/ohac/electrum.git
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## ElectrumX
 
-### Jekyll Themes
+Alternative implementation of spesmilo/electrum-server
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monaco-ex/www.monaco-ex.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* GitHub: https://github.com/wakiyamap/electrumx.git
 
-### Support or Contact
+## Eclair
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A scala implementation of the Lightning Network (fixed for Monacoin mainnet).
+
+* Web: http://54.201.194.99/ (nodes network viewer)
+* GitHub: https://github.com/monapu/eclair.git
+
+# Closed-source / Open APIs
+
+## Multi Light Block Explorer
+
+Blockchain explorer.
+
+* Web: http://namuyan.dip.jp/MultiLightBlockExplorer/
+* API reference: http://namuyan.dip.jp/MultiLightBlockExplorer/APIlist.html
+
+## AskMona
+
+Bulletin board system.
+
+* Web: http://askmona.org
+* API reference: https://askmona.org/developers
+
+## Monappy
+
+Web wallet, Content market, and so on.
+
+* Web: https://monappy.jp/
+* API reference: https://monappy.jp/pages/api_help
+
+## Zaif
+
+Currency exchange.
+
+* Web: https://zaif.jp
+* API reference: http://techbureau-api-document.readthedocs.io/ja/latest/index.html
+
+## Bitbank.cc
+
+Currency exchange.
+
+* Web: https://bitbank.cc
+* API reference: https://docs.bitbank.cc/
+

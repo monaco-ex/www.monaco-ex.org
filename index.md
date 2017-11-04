@@ -26,6 +26,13 @@ Alternative implementation of spesmilo/electrum-server
 
 * GitHub: [https://github.com/wakiyamap/electrumx.git](https://github.com/wakiyamap/electrumx.git)
 
+## Monaparty
+
+A token platform based on [Counterparty](https://counterparty.io)
+
+* Wallet - [Mainnet](https://wallet.monaparty.me/) - [Testnet4](https://wallet-testnet.monaparty.me/)
+* GitHub Team: [https://github.com/monaparty](https://github.com/monaparty)
+
 ## Eclair
 
 A scala implementation of the Lightning Network (fixed for Monacoin mainnet).

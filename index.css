@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: table;
+}
+body {
+    
+    background: #fff;
+    min-height: 0;
+    margin:0 auto;
+    padding:0;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+a {
+ text-decoration: none:
+ display: table-cell;
+
+ border:1px solid #fff;
+ padding:2pt;
+ background-color: #fff;
+ filter:alpha(opacity=3);
+ -moz-opacity:0.85;
+ -khtml-opacity: 0.85;
+ opacity:0.85;
+ font-size: xx-large;
+ text-shadow: 0 -1px 1px #FFF, -1px 0 1px #FFF, 1px 0 1px #aaa; 
+ -webkit-box-shadow: 1px 1px 2px #E7E7E7;
+ -moz-box-shadow: 1px 1px 2px #E7E7E7; 
+ -webkit-border-radius: 3px; 
+ -moz-border-radius: 3px;
+}
+a:hover { text-decoration: underline;}
+a:link { color: black; }　
+a:visited { color: black; }　/*訪問済みリンクの色*/
+a:hover { color: #444488; }　/*マウスオン時のリンクの色*/
+a:active { color: #8888ff; }　/*クリックしている時のリンクの色*/
